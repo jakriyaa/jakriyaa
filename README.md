@@ -4,9 +4,7 @@
 - 🔭 I’m currently Learning [Programming Hero](https://www.programming-hero.com/)
 
 - 🌱 I’m currently learning **Html CSS JavaScript React MongoDB**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1b8KE3Pm2DS2vpOjN1_C23oLk3QjKNva9F9pCJz3LKOc/edit?usp=sharing](https://docs.google.com/document/d/1b8KE3Pm2DS2vpOjN1_C23oLk3QjKNva9F9pCJz3LKOc/edit?usp=sharing)
-
+- 
 - ⚡ Fun fact **Opss! I'm Not funny But I can make you laugh**
 
 <h3 align="left">Connect with me:</h3>

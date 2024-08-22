@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#a627b5">Jakariya Talukdar</span></h1>
+<h1 align="center">Hi, I'm <span style="color:#a627b5">Jakariya Talukdar</span></h1>
 <h3 align="center">I am a student, I am learning front-end and back-end development, I am a digital marketer as well as a developer. I am currently pursuing a diploma in computer science.</h3>
 
 - 🔭 I’m currently Learning [Programming Hero](https://www.programming-hero.com/)
